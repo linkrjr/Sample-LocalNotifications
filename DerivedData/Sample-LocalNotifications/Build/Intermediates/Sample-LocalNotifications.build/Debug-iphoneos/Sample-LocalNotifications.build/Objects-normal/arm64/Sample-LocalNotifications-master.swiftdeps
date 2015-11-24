@@ -1,0 +1,6 @@
+version: "Apple Swift version 2.1 (swiftlang-700.1.101.6 clang-700.1.76)"
+options: "994a8272f0fc798756b6091dd96d3752"
+build_time: [501659500, 261178000]
+inputs:
+  "/Users/rongomes/Documents/projects/iphone/samples/Sample-LocalNotifications/Sample-LocalNotifications/AppDelegate.swift": [501659195, 0]
+  "/Users/rongomes/Documents/projects/iphone/samples/Sample-LocalNotifications/Sample-LocalNotifications/ViewController.swift": [501659500, 0]
